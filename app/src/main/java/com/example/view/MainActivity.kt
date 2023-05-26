@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         val curso: String = "criação de aplicativo para android"// Curso do aluno
         val professor: String = "Matheus"// Nome do professor
         val turno: String = "matutino"// Turno do aluno
-        val nome: String = "Marcelo"// Nome do aluno
+        val nome: String = "Marcelo"// Nome do aluno1
 
     }
     @SuppressLint("SetTextI18n")
